@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there :rainbow:
+
+- 🔭 I’m currently working on Microsoft 365, DevOps and Azure
+- 🌱 I’m currently learning about APIM
+- 💬 Ask me about SharePoint development, Azure and DevOps
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/maheshmj24/)
+- 😄 Pronouns: he/him
+- ⚽ Fun fact: I'm a football enthusiast. **#KTBFFH**
+
+[![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshmj24&show_icons=true&theme=github_dark))](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshmj24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **maheshmj24/maheshmj24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
