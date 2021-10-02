@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Microsoft 365, DevOps and Azure
 - 🌱 I’m currently learning about APIM
 - 💬 Ask me about SharePoint development, Azure and DevOps
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/maheshmj24/)
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/maheshmj24/)
 - 😄 Pronouns: he/him
 - ⚽ Fun fact: I'm a football enthusiast. **#KTBFFH**
 
