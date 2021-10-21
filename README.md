@@ -7,9 +7,9 @@
 - 😄 Pronouns: he/him
 - ⚽ Fun fact: I'm a football enthusiast. **#KTBFFH**
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshmj24&show_icons=true&theme=github_dark))](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshmj24&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshmj24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshmj24&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **maheshmj24/maheshmj24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
